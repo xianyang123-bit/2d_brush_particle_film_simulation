@@ -1,0 +1,9 @@
+name: gnp2d
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - hoomd=7.1.*
+  - numpy
+  - matplotlib
+  - gsd

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.gsd
+*.npz
+*.log
+pid.txt
+status.txt
+progress.json
+.DS_Store
+.venv/
+env/
+film*/
